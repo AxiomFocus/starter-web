@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 
 This is the current deployment.
 One more change.
+
+## Copyright
+
+2020 Paul Griffith
